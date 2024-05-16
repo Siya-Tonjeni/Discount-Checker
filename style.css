@@ -1,0 +1,42 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+.container{
+    display: inline-block;  
+    border-style: dotted; 
+    margin: 50px;
+}
+
+.form-group{
+    margin: 10px;
+}
+
+.input-age{
+    margin: 15px;
+}
+.lbl-box{
+    margin: 20px;
+}
+
+.btn{
+    background-color: #3ba9b1;
+    color: #f2f2f2;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #f2f2f2;
+    color: #3ba9b1;
+}
+
+.result{
+    border-color: #3ba9b1;
+    border-style: ridge;
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+}
